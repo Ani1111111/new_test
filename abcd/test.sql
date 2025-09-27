@@ -1,1 +1,1 @@
-selllllllllll
+select 1;
